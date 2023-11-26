@@ -1,0 +1,64 @@
+#backcolor{
+    
+    background: rgb(226,211,166);
+background: linear-gradient(0deg, rgba(226,211,166,0) 0%, rgba(212,189,145,0.2806372549019608) 27%, rgba(205,167,141,0.34226190476190477) 73%, rgba(203,198,142,0) 100%);
+}
+
+#buttn{
+    box-shadow:inset 0px 1px 0px 0px #876763;
+	background:linear-gradient(to bottom, #c7ab8d 5%, #ac967d 100%);
+	background-color:#be9c78;
+	border-radius:3px;
+	border:1px solid #54381e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #d6b4b3;
+}
+
+#cnfmbtn{
+    box-shadow: 3px 4px 0px 0px #959065;
+	background:linear-gradient(to bottom, #8b6e4f 5%, #ac967d 100%);
+	background-color:#a67b4c;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+
+#titstyle{
+	font-size:xx-large;
+	font-family: 'Times New Roman', Times, serif;
+	font-style:italic;
+	font-weight:bolder;
+	color: #684d49;
+	text-shadow: 1px 1px #684d49
+}
+
+#btnmenu{
+	box-shadow: 1px 1px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c7aa8b 5%, #ac967d 100%);
+	background-color:#be9c78;
+	border-radius:19px;
+	border:1px solid #b37e79;
+	display:inline-block;
+	cursor:pointer;
+	color: white;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:5px 9px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
